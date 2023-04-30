@@ -95,7 +95,7 @@ if choice == "Predict":
     kemampuan = st.slider("Kemampuan", 1, 5, 3)
     kepribadian = st.slider("Kepribadian", 1, 5, 3)
     penghasilan_orangtua = st.slider(
-        "Penghasilan Orang Tua", 0, 100000000, 5000000)
+        "Penghasilan Orang Tua", 0, 10000000, 5000000)
 
     # Menampilkan input data
     st.write("Data yang dimasukkan:")
