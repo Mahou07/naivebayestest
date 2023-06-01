@@ -66,11 +66,11 @@ networkx==2.8.7
 nltk==3.7
 numba==0.54.1
 numexpr==2.8.3
-numpy==1.20.3
+numpy==1.17
 oauthlib==3.2.2
 openpyxl==3.0.9
 packaging==21.3
-pandas==1.5.1
+pandas==1.4.0
 pandas-profiling==3.4.0
 parso==0.8.3
 patsy==0.5.3
